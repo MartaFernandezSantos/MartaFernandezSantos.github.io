@@ -1,0 +1,9 @@
+Sitemap: https://sitemap.xml
+
+User-agent: *
+Disallow: /assets/
+Disallow: /js/
+Disallow: /css/
+Disallow: /vendor/
+Disallow: /img/
+Disallow: /README.md
